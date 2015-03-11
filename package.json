@@ -1,0 +1,23 @@
+{
+  "name": "Browserify",
+  "version": "1.0.0",
+  "description": "browserify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Razum",
+  "license": "ISC",
+  "dependencies": {
+    "underscore": "1.8.2",
+    "jquery": "2.1.3",
+    "backbone": "1.1.2"
+  },
+  "devDependencies": {
+    "gulp": "3.8.11",
+    "gulp-watch": "4.1.1",
+    "gulp-util": "3.0.4",
+    "gulp-browserify": "0.5.1",
+    "gulp-rename": "1.2.0"
+  }
+}
